@@ -8,3 +8,5 @@ user_id,name,fin,series,type,datetime,latitude,longitude,address,code
 1365955680,Asdf albalayev,ASDF123,ABE12344,giris,2025-10-17 11:22:18,,,Manual giriş,isci2002
 1376245682,Əfraim Məmmədov,7KSLISPSK,AZE103929,giris,2025-10-18 09:46:07,,,Manual giriş,isci2002
 1376245682,Əfraim Məmmədov,7KSLISPSK,AZE103929,cixis,2025-10-18 09:46:08,,,Manual çıxış,isci2002
+1376245682,Əfraim Məmmədov,7KSLISPSK,AZE103929,giris,2025-10-22 20:25:48,,,Manual giriş,isci2002
+1376245682,Əfraim Məmmədov,7KSLISPSK,AZE103929,cixis,2025-10-22 20:25:53,,,Manual çıxış,isci2002
